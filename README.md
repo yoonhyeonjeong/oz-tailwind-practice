@@ -4,10 +4,11 @@
 
 - 주제 : tailwindcss를 이용하여 OZ 페이지 디자인하기
 - 학습 목표
-  1. 이전 과제에서 작성한 css 코드를 tailwindcss를 사용하여 리팩토링할 수 있다.
-  2. tailwindcss를 사용하기 위한 초기설정을 할 수 있다.
-  3. tailwindcss를 사용하는 방법에 대해 이해한다.
-  4. tailwindcss를 사용하는 경우의 장단점에 대해 이해한다.
+
+1. 이전 과제에서 작성한 css 코드를 tailwindcss를 사용하여 리팩토링할 수 있다.
+2. tailwindcss를 사용하기 위한 초기설정을 할 수 있다.
+3. tailwindcss를 사용하는 방법에 대해 이해한다.
+4. tailwindcss를 사용하는 경우의 장단점에 대해 이해한다.
 
 <br/>
 
